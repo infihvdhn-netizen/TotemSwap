@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "totemswap",
+  "version": "${version}",
+  "name": "TotemSwap",
+  "description": "Перемещает тотем в левую руку по нажатию клавиши.",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ru.totemswap.TotemSwapClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

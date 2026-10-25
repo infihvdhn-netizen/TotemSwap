@@ -1,0 +1,6 @@
+{
+  "key.category.totemswap": "TotemSwap",
+  "key.totemswap.swap": "Переложить тотем в левую руку",
+  "message.totemswap.no_totem": "TotemSwap: тотем не найден в инвентаре",
+  "message.totemswap.already_equipped": "TotemSwap: тотем уже в левой руке"
+}

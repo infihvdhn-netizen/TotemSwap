@@ -1,0 +1,6 @@
+{
+  "key.category.totemswap": "TotemSwap",
+  "key.totemswap.swap": "Move totem to offhand",
+  "message.totemswap.no_totem": "TotemSwap: no totem found in your inventory",
+  "message.totemswap.already_equipped": "TotemSwap: a totem is already in your offhand"
+}
